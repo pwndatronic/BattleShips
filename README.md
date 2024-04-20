@@ -1,6 +1,7 @@
 Battle Ships game.
 
 Auto board fill.
+
 AI vs Player.
 
 6 x 6 board.
